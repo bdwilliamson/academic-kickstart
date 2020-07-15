@@ -19,7 +19,7 @@ publication: In *Proceedings of the Thirty-seventh International Conference on M
 publication_short: In *ICML 2020*
 publication_types:
 - "1"
-publishDate: "2020-08"
+publishDate: "2020-07-13T13:37:30-07:00"
 slides: example
 summary: You choose a variable importance measure and a prediction algorithm; we produce point estimates, confidence intervals, and p-values using a computationally efficient algorithm.
 tags:
