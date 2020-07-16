@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SLAPNAP: Super LeArner Predictions of Neutralizing Antibody Panels"
+title: "Super LeArner Prediction of NAb Panels (SLAPNAP): a containerized tool for predicting combination monoclonal broadly neutralizing antibody sensitivity"
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

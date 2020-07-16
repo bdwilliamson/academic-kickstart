@@ -13,7 +13,7 @@ education:
     year: 2017
   - course: BA in Mathematics
     institution: Pomona College
-    year: 2010
+    year: 2014
 email: ""
 interests:
 - Biostatistics

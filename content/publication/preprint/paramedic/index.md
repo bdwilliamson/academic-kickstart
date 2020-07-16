@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Estimating microbial abundance"
+title: "A multi-view model for relative and absolute microbial abundances"
 authors: [admin, Jim Hughes, Amy Willis]
 date: 2019-09-08
 doi: "10.1101/761486"
