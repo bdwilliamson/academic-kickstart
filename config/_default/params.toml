@@ -97,7 +97,7 @@ address = {street = "1100 Fairview Ave N, Mail Stop M2-C200", city = "Seattle", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "47.627394", longitude = "-122.331464"}
 
 # Directions for visitors to locate you.
 directions = "Enter the Arnold Building and ask the person at the information desk to page me."
