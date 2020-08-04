@@ -75,7 +75,8 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+# edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = ""
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
@@ -88,7 +89,8 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "/img/fredhutch_email.png"
+# email = "bwillia2@fredhutch.org"
+email = ""
 phone = ""
 
 # Address
@@ -97,10 +99,12 @@ address = {street = "1100 Fairview Ave N, Mail Stop M2-C200", city = "Seattle", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.627394", longitude = "-122.331464"}
+# coordinates = {latitude = "47.627394", longitude = "-122.331464"}
+coordinates = ""
 
 # Directions for visitors to locate you.
-directions = "Enter the Arnold Building and ask the person at the information desk to page me."
+# directions = "Enter the Arnold Building and ask the person at the information desk to page me."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

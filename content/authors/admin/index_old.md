@@ -28,7 +28,7 @@ role: Postdoctoral Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:bwillia2@fredhutch.org'
+  link: '#contact'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=k4RWx44AAAAJ&hl
