@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-21
-date_end: 2020-10-21
+date: 2020-10-21T10:30:00
+date_end: 2020-10-21T11:45:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-10-21T00:00:00-00:00
+publishDate: 2020-10-20T14:00:00-00:00
 
 authors: []
 tags: ["variable-importance", "machine-learning"]
