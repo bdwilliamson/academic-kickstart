@@ -7,16 +7,16 @@ date: 2017-09-07
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-13T11:33:39-07:00
+publishDate: 2020-10-11T11:33:39-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "UW Biostatistics Working Paper Series"
+publication: "Biometrics"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "http://biostats.bepress.com/uwbiostat/paper422/"
+url_pdf: "https://onlinelibrary.wiley.com/doi/10.1111/biom.13392"
 url_code: "https://github.com/bdwilliamson/vimp"
 url_dataset:
 url_poster:
