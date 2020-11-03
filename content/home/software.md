@@ -20,7 +20,7 @@ weight = 60
 R (`vimp`) and Python (`vimpy`) packages for performing inference on algorithm-agnostic variable importance parameters.
 
 [<img src="img/vimp_logo.png" title="vimp logo" id="id" class="class" width="100" height="100" alt="alt text" />](https://github.com/bdwilliamson/vimp)
-[Docs](https://bdwilliamson.github.io/vimp/)|
+[Docs](https://bdwilliamson.github.io/vimp/) |
 [GitHub](https://github.com/bdwilliamson/vimp) |
 [CRAN](https://CRAN.R-project.org/package=vimp)
 
