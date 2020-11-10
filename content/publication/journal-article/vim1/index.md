@@ -68,4 +68,4 @@ projects: ["variable-importance"]
 slides: ""
 ---
 
-We first focused on a nonparametric extension of the classical measure based on the difference in R-squared (from linear models). We provide a simple approach for estimation that incorporates machine learning tools, and yields valid confidence intervals for the true importance.
+In my first paper on population variable importance, we focused on a nonparametric extension of the classical measure based on the difference in R-squared values (from linear models). We provide a simple approach for estimation that incorporates machine learning tools, and yields valid confidence intervals for the true importance.

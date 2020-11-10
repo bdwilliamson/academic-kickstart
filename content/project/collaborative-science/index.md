@@ -46,6 +46,10 @@ clinical trial. We identified three antibody features that inversely
 correlated with HIV-1 infection risk. This may help in designing future
 HIV-1 vaccines.
 
+# Surrogate endpoints for cytomegalovirus disease
+
+We used a combination of classical statistical methods and ensemble-based machine learning to assess various viral load kinetics as potential surrogate endpoints for cytomegalovirus disease after transplant. We found that mean, peak, and change in viral load over the first five weeks of treatment fulfilled the Prentice criteria for surrogacy and captured a large proportion of the treatment effect in two randomized, controlled trials.
+
 # Non-vaccine HIV prevention
 
 ## Characteristics associated with HIV risk in young South African women

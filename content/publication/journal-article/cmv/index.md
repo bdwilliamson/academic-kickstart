@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["machine-learning", "biostatistics", "infectious-diseases"]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -61,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["infectious-diseases"]
+projects: ["collaborative-science"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -71,4 +71,4 @@ projects: ["infectious-diseases"]
 slides: ""
 ---
 
-We used machine learning
+We used machine learning and classical statistical tools to assess potential surrogate endpoings for cytomegalovirus (CMV) disease, and identified several viral load kinetic variables (mean, peak, and change in viral load over the first five weeks of treatment) that satisfied the Prentice criteria for surrogate endpoints.
