@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nonparametric variable importance assessment using machine learning techniques"
-authors: [admin, Peter Gilbert, Marco Carone, Noah Simon]
-date: 2020-10-11
-doi: ""
+title: "Cytomegalovirus viral load kinetics as surrogate endpoints after allogeneic transplantation"
+authors: [Elizabeth Duke, admin, Bhavesh Borate, ..., Peter Gilbert, Joshua Schiffer, Michael Boeckh]
+date: 2020-09-24
+doi: "10.1172/JCI133960"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-11T11:33:39-07:00
+publishDate: 2020-09-24T11:33:39-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2020-10-11T11:33:39-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biometrics"
-publication_short: ""
+publication: "The Journal of Clinical Investigation"
+publication_short: "JCI"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["machine-learning", "biostatistics"]
+tags: ["machine-learning", "biostatistics", "infectious-diseases"]
 categories: []
 featured: true
 
@@ -36,14 +36,17 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://onlinelibrary.wiley.com/doi/10.1111/biom.13392"
-url_code: "https://github.com/bdwilliamson/vimp"
+url_pdf: "https://www.jci.org/articles/view/133960/pdf"
+url_code: ""
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
 url_video:
+links:
+  - name: Fred Hutch News
+    url: https://www.fredhutch.org/en/news/center-news/2020/11/cmv-viral-load-antivirals.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -58,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["variable-importance"]
+projects: ["infectious-diseases"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -68,4 +71,4 @@ projects: ["variable-importance"]
 slides: ""
 ---
 
-We first focused on a nonparametric extension of the classical measure based on the difference in R-squared (from linear models). We provide a simple approach for estimation that incorporates machine learning tools, and yields valid confidence intervals for the true importance.
+We used machine learning
