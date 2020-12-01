@@ -65,11 +65,6 @@ of Washington](https://www.washington.edu/) under the guidance of [Marco
 Carone](http://faculty.washington.edu/mcarone/about.html) and [Noah
 Simon](http://faculty.washington.edu/nrsimon/).
 
-I am interested in problems of high-dimensional data, data science, and
-statistical inference. In particular, I enjoy working on developing new
-methodology for addressing scientific questions using large and complex
-datasets, and appropriately quantifying uncertainty in the resulting
-estimates. I also enjoy working on problems involving how best to tell a
-story using data. I have been primarily motivated by applications in
-public health and medicine, but I am always open to collaborations on
-interesting problems in any area of research.
+I am interested in problems of high-dimensional data, data science, and statistical inference. In particular, I enjoy working on developing new methodology for addressing scientific questions using large and complex datasets, and appropriately quantifying uncertainty in the resulting estimates. I also enjoy working on problems involving how best to tell a story using data. I have been primarily motivated by applications in public health and medicine, but I am always open to collaborations on interesting problems in any area of research.
+
+I am also a member of the Hutch United Outreach Committee, and am committed to increasing equity, diversity, and inclusion in (bio)statistics and science more broadly.
