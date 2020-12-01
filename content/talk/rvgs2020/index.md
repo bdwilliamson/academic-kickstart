@@ -21,7 +21,7 @@ date_end: 2020-12-2T8:00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-12-1
+publishDate: 2020-11-30T14:00:00-00:00
 
 authors: []
 tags: []
