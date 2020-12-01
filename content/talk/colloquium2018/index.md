@@ -11,7 +11,7 @@ address:
   region: "WA"
   postcode:
   country: "USA"
-summary: "Invited talk"
+summary: "Invited talk on my dissertation research given at the UW Biostatistics Colloquium"
 abstract:
 
 # Talk start and end times.

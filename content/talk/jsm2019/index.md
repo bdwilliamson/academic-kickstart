@@ -11,7 +11,7 @@ address:
   region: "CO"
   postcode:
   country: "USA"
-summary: "This talk was selected for an ASA Nonparametrics Section Travel Award"
+summary: "This talk (at JSM 2019) was selected for an ASA Nonparametrics Section Travel Award"
 abstract:
 
 # Talk start and end times.

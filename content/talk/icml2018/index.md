@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country: "Sweden"
-summary:
+summary: Contributed talk at the Thirty-fifth International Conference on Machine Learning
 abstract:
 
 # Talk start and end times.

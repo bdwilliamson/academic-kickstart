@@ -11,16 +11,16 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Lecture in the Computational Biology course at Roanoke Valley Governor's School
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 
+date: 2020-12-02T07:00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate:
+publishDate: 2020-12-01T14:00:00
 
 authors: []
 tags: []

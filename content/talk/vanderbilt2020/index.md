@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Biostatistics Department Seminar at Vanderbilt University
 abstract:
 
 # Talk start and end times.

@@ -11,7 +11,7 @@ address:
   region: "MD"
   postcode:
   country: "USA"
-summary: "This talk was selected for an ASA Biometrics Section Travel Award"
+summary: "This talk (at JSM 2018) was selected for an ASA Biometrics Section Travel Award"
 abstract:
 
 # Talk start and end times.

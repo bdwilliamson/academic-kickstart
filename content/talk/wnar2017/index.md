@@ -11,7 +11,7 @@ address:
   region: "NM"
   postcode:
   country: "USA"
-summary: "This talk was selected as the Most Outstanding Oral Paper"
+summary: "This talk (at WNAR 2017) was selected as the Most Outstanding Oral Paper"
 abstract:
 
 # Talk start and end times.

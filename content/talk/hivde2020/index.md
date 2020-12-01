@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Contributed talk at the 27th International Dynamics and Evolution of HIV and Other Human Viruses Meeting
 abstract:
 
 # Talk start and end times.
