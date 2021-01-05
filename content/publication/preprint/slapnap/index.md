@@ -3,14 +3,12 @@
 
 title: "Super LeArner Prediction of NAb Panels (SLAPNAP): a containerized tool for predicting combination monoclonal broadly neutralizing antibody sensitivity"
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 authors:
-- David Benkeser
 - admin
 - Craig Magaret
 - Sohail Nizam
 - Peter Gilbert
+- David Benkeser
 date: 2020-07-13T11:33:43-07:00
 doi: ""
 

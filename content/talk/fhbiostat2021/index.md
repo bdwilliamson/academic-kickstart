@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A unified approach to inference on algorithm-agnostic variable importance"
-event: "Fred Hutchinson Cancer Research Center Biostatistics Program Post-Doc Speaker Series"
+title: "Statistical inference and containerization in computational pipelines"
+event: "Fred Hutchinson Cancer Research Center Biostatistics Program Seminar Series"
 event_url:
 location: "Virtual"
 address:
@@ -11,20 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: Post-Doc Speaker Series of the Biostatistics Program at the Fred Hutchinson Cancer Research Center
+summary: Seminar Series of the Biostatistics Program at the Fred Hutchinson Cancer Research Center
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-12-14T14:00:00
-date_end: 2020-12-14T15:00:00
+date: 2021-01-06T12:00:00
+date_end: 2021-01-06T13:00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-12-13T14:00:00-00:00
+publishDate: 2021-01-05T14:00:00-00:00
 
 authors: []
-tags: ["variable-importance", "machine-learning"]
+tags: ["variable-importance", "machine-learning", "infectious-diseases"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "https://bdwilliamson.github.io/generalvim/"
+url_slides: "https://bdwilliamson.github.io/slapnaptalk/"
 url_code:
 url_pdf:
 url_video:
@@ -63,5 +63,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["variable-importance"]
+projects: ["bnabs"]
 ---
