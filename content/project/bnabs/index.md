@@ -5,8 +5,7 @@ external_link: ""
 image:
   caption: 'ROC curves for a proposed VRC01 neutralization sensitivity predictor. Inset: 3D structure of the HIV Envelope protein with colored areas based on identified important features and groups using our proposed variable importance measure. From Magaret et al. (2019)'
   focal_point: Smart
-links: ""
-slides: ""
+
 summary: Assessing neutralization sensitivity of HIV-1 viruses to broadly neutralizing antibodies.
 tags:
 - variable-importance
@@ -18,6 +17,9 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+links:
+- url: https://bdwilliamson.github.io
+slides: ""
 ---
 
 The broadly neutralizing antibody VRC01, developed by the Vaccine

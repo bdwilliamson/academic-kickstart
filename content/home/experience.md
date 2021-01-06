@@ -40,5 +40,4 @@ experience:
     date_start: "2018-03-28"
     date_end: "2018-06-15"
     description: Taught a regression methods course for undergraduates.
-
 ---

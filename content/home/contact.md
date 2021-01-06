@@ -17,4 +17,8 @@ content:
     #   2: formspree.io
     form: 0
 
+design:
+  columns: '2'
+  background:
+    text_color_light: true
 ---

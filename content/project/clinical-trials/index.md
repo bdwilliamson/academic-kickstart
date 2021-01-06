@@ -14,7 +14,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-links: ""
 slides: ""
 tags:
 - infectious-diseases
@@ -24,6 +23,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+links:
+- url: https://bdwilliamson.github.io
 ---
 
 In settings where it is not ethical to perform a classical

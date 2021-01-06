@@ -11,7 +11,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-links: ""
 slides: ""
 tags:
 - infectious-diseases
@@ -20,6 +19,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+links:
+- url: https://bdwilliamson.github.io
 ---
 
 # HIV vaccines

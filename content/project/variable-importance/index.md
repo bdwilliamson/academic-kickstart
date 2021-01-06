@@ -20,12 +20,13 @@ image:
   caption: "Variable importance estimates using SPVIM (left; from Williamson and Feng [2020]) and SHAP (right) for the MIMIC-II data."
   focal_point: ""
   preview_only: false
-links: ""
 slides: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+links:
+- url: https://bdwilliamson.github.io
 ---
 
 It is often of interest to understand the population interplay between

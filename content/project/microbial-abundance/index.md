@@ -16,7 +16,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-links: ""
 slides: ""
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -31,6 +30,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+links:
+- url: https://bdwilliamson.github.io
 ---
 
 In this work, we propose a statistical method for combining inexpensive
