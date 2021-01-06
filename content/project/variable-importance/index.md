@@ -2,8 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: Variable Importance
 subtitle: ""
-summary: Inference on algorithm-agnostic measures of variable importance.
 date: "2020-07-13"
+external_link: ""
+
+summary: Inference on algorithm-agnostic measures of variable importance.
+
 tags:
 - variable-importance
 - machine-learning
@@ -17,12 +20,12 @@ image:
   caption: "Variable importance estimates using SPVIM (left; from Williamson and Feng [2020]) and SHAP (right) for the MIMIC-II data."
   focal_point: ""
   preview_only: false
-
+links: ""
+slides: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-slides: ""
 ---
 
 It is often of interest to understand the population interplay between

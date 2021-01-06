@@ -2,8 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: Statistical Methods for Clinical Trials
 subtitle: ""
-summary: Statistical methods for clinical trials research and results from collaborative studies.
 date: "2020-07-13"
+external_link: ""
+
+summary: Statistical methods for clinical trials research and results from collaborative studies.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

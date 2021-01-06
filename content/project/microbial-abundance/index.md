@@ -2,10 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: Microbial Abundance
 date: "2020-07-13"
-summary: Estimating and doing inference on microbial abundance.
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
+
+summary: Estimating and doing inference on microbial abundance.
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -14,7 +16,8 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
+links: ""
+slides: ""
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:

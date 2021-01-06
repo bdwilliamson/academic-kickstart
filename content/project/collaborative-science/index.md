@@ -2,9 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: Collaborative Science
 subtitle: ""
+date: "2020-07-13"
+external_link: ""
+
 summary: Collaborative projects across multiple disease areas.
 
-date: "2020-07-13"
 image:
   caption: ""
   focal_point: ""
