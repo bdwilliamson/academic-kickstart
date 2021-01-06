@@ -30,8 +30,10 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Using data from HPTN 068, we identified several factors associated with age-discordant partnerships."
 
-tags: ["collaborative-science", "infectious-diseases", "clinical-trials"]
-categories: ["collaborative-science"]
+projects:
+- collaborative-science
+
+tags: []
 featured: false
 
 # Custom links (optional).
@@ -59,13 +61,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["collaborative-science"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

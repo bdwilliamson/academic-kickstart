@@ -2,9 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Nonparametric variable importance assessment using machine learning techniques"
-authors: [admin, Peter Gilbert, Marco Carone, Noah Simon]
+authors:
+- admin
+- Peter Gilbert
+- Marco Carone
+- Noah Simon
 date: 2020-10-11
-doi: ""
+doi: "https://doi.org/10.1111/biom.13392"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-11T11:33:39-07:00
@@ -24,8 +28,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["machine-learning", "biostatistics"]
-categories: []
+projects:
+- variable-importance
+tags: []
 featured: true
 
 # Custom links (optional).
@@ -53,12 +58,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["variable-importance"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -68,4 +67,4 @@ projects: ["variable-importance"]
 slides: ""
 ---
 
-In my first paper on population variable importance, we focused on a nonparametric extension of the classical measure based on the difference in R-squared values (from linear models). We provide a simple approach for estimation that incorporates machine learning tools, and yields valid confidence intervals for the true importance.
+In my first paper on population variable importance, we focused on a nonparametric extension of the classical measure based on the difference in R-squared values (from linear models). We provide a simple approach for estimation that incorporates machine learning tools, and yields valid confidence intervals for the true importance. We also provide a [rejoinder](https://doi.org/10.1111/biom.13389) to discussion on this article.

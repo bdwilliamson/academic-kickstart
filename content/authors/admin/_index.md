@@ -1,8 +1,24 @@
 ---
-authors:
-- admin
+# display name, role, org
+title: Brian Williamson
+superuser: true
+role: Postdoctoral Research Fellow
+organizations:
+- name: Fred Hutch
+  url: "https://fredhutch.org"
+
+# Short bio (displayed at end of posts)
 bio: My research interests include problems in high-dimensional data, data science, and statistical inference, particularly those that arise in infectious disease or cancer research.
 
+# Interests to show in About widget
+interests:
+- Biostatistics
+- Semiparametric inference
+- High-dimensional data
+- Infectious diseases
+- Biomarkers
+
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Biostatistics
@@ -14,17 +30,8 @@ education:
   - course: BA in Mathematics
     institution: Pomona College
     year: 2014
-email: ""
-interests:
-- Biostatistics
-- Semiparametric inference
-- High-dimensional data
-- Infectious diseases
-- Biomarkers
-organizations:
-- name: Fred Hutch
-  url: "https://fredhutch.org"
-role: Postdoctoral Research Fellow
+
+# Social/academic/networking
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,11 +51,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: 'files/williamson_cv.pdf'
-superuser: true
-title: Brian Williamson
-user_groups:
-- Researchers
-- Visitors
+email: ""
+
+# Highlight name in author lists?
+highlight_name: false
 ---
 
 Pronouns: he/him/his

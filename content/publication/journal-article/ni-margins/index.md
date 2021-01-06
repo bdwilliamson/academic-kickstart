@@ -28,8 +28,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "We propose a statistical method for rigorously adapting the non-inferiority margin in non-inferiority clinical trials subject to non-constancy."
 
+projects:
+- clinical-trials
 tags: []
-categories: []
 featured: false
 
 # Custom links (optional).
@@ -58,13 +59,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["clinical-trials"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -1,13 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Microbial Abundance"
-summary: ""
-authors: []
-tags:
-- "biostatistics"
-categories: []
-date: 2020-07-13T16:54:42-07:00
+title: Microbial Abundance
+date: "2020-07-13"
+summary: Estimating and doing inference on microbial abundance.
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,18 +22,12 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-
+tags:
+- biostatistics
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
 
 In this work, we propose a statistical method for combining inexpensive

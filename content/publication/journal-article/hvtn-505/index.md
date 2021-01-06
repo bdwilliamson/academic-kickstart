@@ -30,8 +30,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "We assessed correlates of risk for HIV-1 infection using data from the HVTN 505 trial."
 
-tags: ["clinical-trials", "collaborative-science", "infectious-diseases"]
-categories: ["collaborative-science"]
+projects:
+- collaborative-science
+tags: []
 featured: true
 
 # Custom links (optional).
@@ -62,13 +63,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["collaborative-science"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

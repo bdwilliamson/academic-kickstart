@@ -1,33 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Collaborative Science"
+title: Collaborative Science
 subtitle: ""
-summary: ""
-authors: []
-tags:
-- "infectious-diseases"
-- "collaborative-science"
-categories: []
-date: 2020-07-13T10:52:29-07:00
-lastmod: 2020-07-13T10:52:29-07:00
-featured: false
-draft: false
+summary: Collaborative projects across multiple disease areas.
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+date: "2020-07-13"
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+links: ""
+slides: ""
+tags:
+- infectious-diseases
+- collaborative-science
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 # HIV vaccines

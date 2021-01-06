@@ -29,8 +29,10 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "We propose a method for using single-cell mass cytometry data to learn the optimal combination of cancer treatment options to assign to a given patient."
 
-tags: ["clinical-trials", "collaborative-science"]
-categories: ["collaborative-science"]
+
+projects:
+- collaborative-science
+tags: []
 featured: false
 
 # Custom links (optional).
@@ -57,13 +59,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["collaborative-science"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

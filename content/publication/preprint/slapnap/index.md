@@ -2,7 +2,6 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Super LeArner Prediction of NAb Panels (SLAPNAP): a containerized tool for predicting combination monoclonal broadly neutralizing antibody sensitivity"
-author_notes:
 authors:
 - admin
 - Craig Magaret
@@ -30,8 +29,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["machine-learning", "infectious-diseases"]
-categories: []
+projects:
+- bnabs
+tags: []
 featured: true
 
 # Custom links (optional).
@@ -59,12 +59,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["bnabs"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

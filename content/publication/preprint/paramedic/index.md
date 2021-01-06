@@ -2,7 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A multi-view model for relative and absolute microbial abundances"
-authors: [admin, Jim Hughes, Amy Willis]
+authors:
+- admin
+- Jim Hughes
+- Amy Willis
 date: 2019-09-08
 doi: "10.1101/761486"
 
@@ -24,8 +27,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "We propose a method for combining absolute and relative abundance measurements to do inference on the true absolute abundance."
 
-tags: ["biostatistics"]
-categories: []
+projects:
+- microbial-abundance
+tags: []
 featured: false
 
 # Custom links (optional).
@@ -52,13 +56,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["microbial-abundance"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

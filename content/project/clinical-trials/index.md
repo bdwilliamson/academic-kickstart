@@ -1,19 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Statistical Methods for Clinical Trials"
+title: Statistical Methods for Clinical Trials
 subtitle: ""
-summary: "Statistical methods for clinical trials research and results from collaborative studies."
-authors: []
-tags:
-- infectious-diseases
-- biostatistics
-- collaborative-science
-categories: []
-date: 2020-07-13T10:47:17-07:00
-lastmod: 2020-07-13T10:47:17-07:00
-featured: false
-draft: false
+summary: Statistical methods for clinical trials research and results from collaborative studies.
+date: "2020-07-13"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,13 +12,16 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+links: ""
+slides: ""
+tags:
+- infectious-diseases
+- biostatistics
+- collaborative-science
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 In settings where it is not ethical to perform a classical

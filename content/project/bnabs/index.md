@@ -1,11 +1,12 @@
 ---
+title: Broadly Neutralizing Antibodies
 date: "2020-07-13"
 external_link: ""
 image:
   caption: 'ROC curves for a proposed VRC01 neutralization sensitivity predictor. Inset: 3D structure of the HIV Envelope protein with colored areas based on identified important features and groups using our proposed variable importance measure. From Magaret et al. (2019)'
   focal_point: Smart
-links:
-slides:
+links: ""
+slides: ""
 summary: Assessing neutralization sensitivity of HIV-1 viruses to broadly neutralizing antibodies.
 tags:
 - variable-importance
@@ -13,7 +14,6 @@ tags:
 - biostatistics
 - infectious-diseases
 - semiparametric-inference
-title: Broadly Neutralizing Antibodies
 url_code: ""
 url_pdf: ""
 url_slides: ""

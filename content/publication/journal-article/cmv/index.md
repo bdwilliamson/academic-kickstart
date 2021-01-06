@@ -2,7 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cytomegalovirus viral load kinetics as surrogate endpoints after allogeneic transplantation"
-authors: [Elizabeth Duke, admin, Bhavesh Borate, ..., Peter Gilbert, Joshua Schiffer, Michael Boeckh]
+authors:
+- Elizabeth Duke
+- admin
+- Bhavesh Borate
+- ...
+- Peter Gilbert
+- Joshua Schiffer
+- Michael Boeckh
 date: 2020-09-24
 doi: "10.1172/JCI133960"
 
@@ -24,8 +31,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["machine-learning", "biostatistics", "infectious-diseases"]
-categories: []
+projects:
+- collaborative-science
+tags: []
 featured: false
 
 # Custom links (optional).
@@ -55,13 +63,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["collaborative-science"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

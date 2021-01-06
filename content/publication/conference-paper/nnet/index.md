@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Nonparametric variable importance using an augmented neural network with multi-task learning"
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 authors:
 - Jean Feng
 - admin
 - Marco Carone
 - Noah Simon
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: 2018-07-15
 doi: ""
 
@@ -31,9 +31,10 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "We show how a single augmented neural network with multi-task learning simultaneously estimates the importance of many feature subsets, improving on previous procedures for estimating importance."
 
-tags: ["variable-importance", "machine-learning"]
-categories: []
 featured: false
+projects:
+  - variable-importance
+tags: []
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -59,13 +60,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["variable-importance"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
