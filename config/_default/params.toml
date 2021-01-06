@@ -81,6 +81,8 @@ edit_page = ""
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
 
+media_dir = "img"
+
 ############################
 ## Contact details
 ##
@@ -291,6 +293,12 @@ plugins_js  = []
 ############################
 ## Content Management System
 ############################
+
+# Content Management System
 [cms]
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = true
+
+# Icon Pack Extensions
+[icon.pack]
+ ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
