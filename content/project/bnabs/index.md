@@ -18,7 +18,6 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 links:
-- url: https://bdwilliamson.github.io
 slides: ""
 ---
 

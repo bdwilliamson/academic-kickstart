@@ -31,7 +31,6 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 links:
-- url: https://bdwilliamson.github.io
 ---
 
 In this work, we propose a statistical method for combining inexpensive

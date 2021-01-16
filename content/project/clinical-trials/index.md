@@ -24,7 +24,6 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 links:
-- url: https://bdwilliamson.github.io
 ---
 
 In settings where it is not ethical to perform a classical

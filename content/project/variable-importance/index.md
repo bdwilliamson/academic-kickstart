@@ -26,7 +26,6 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 links:
-- url: https://bdwilliamson.github.io
 ---
 
 It is often of interest to understand the population interplay between
