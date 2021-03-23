@@ -58,6 +58,7 @@ highlight_name: false
 ---
 
 Pronouns: he/him/his
+Pronunciation: _brai-uhn will-ee-am-suhn_
 
 I am a postdoctoral fellow in the [Vaccine and Infectious Disease
 Division](https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division.html)
