@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Post-Doc Speaker Series of the Biostatistics Program at the Fred Hutchinson Cancer Research Center
+summary: Biostatistics Program Post-Doc Speaker Series at the Fred Hutchinson Cancer Research Center
 abstract:
 
 # Talk start and end times.

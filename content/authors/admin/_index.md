@@ -58,6 +58,7 @@ highlight_name: false
 ---
 
 Pronouns: he/him/his
+
 Pronunciation: _bry-en will-ee-am-sun_
 
 I am a postdoctoral fellow in the [Vaccine and Infectious Disease
