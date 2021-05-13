@@ -57,9 +57,7 @@ email: ""
 highlight_name: false
 ---
 
-Pronouns: he/him/his
-
-Pronunciation: _bry-en will-ee-am-sun_
+Pronouns: _he/him/his_. Pronunciation: _bry-en wil-lee-am-son_
 
 I am a postdoctoral fellow in the [Vaccine and Infectious Disease
 Division](https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division.html)
