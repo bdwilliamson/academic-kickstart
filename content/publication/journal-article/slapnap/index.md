@@ -5,34 +5,35 @@ title: "Super LeArner Prediction of NAb Panels (SLAPNAP): a containerized tool f
 authors:
 - admin
 - Craig Magaret
-- Sohail Nizam
 - Peter Gilbert
+- Sohail Nizam
+- Courtney Simmons
 - David Benkeser
-date: 2020-07-13T11:33:43-07:00
+date: 2021-05-18T11:33:43-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-13T11:33:43-07:00
+publishDate: 2021-05-18T11:33:43-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv"
+publication: "Bioinformatics"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In this article, we propose and validate a tool (built in a Docker container) for predicting combination monoclonal broadly neutralizing antibody sensitivity. After the AMP trials, future trials will evaluate these combination regimens; thus, given the large number of potential regimens, methods for down-selecting these regimens into efficacy trials are of great interest. Our proposal is one such method."
 
 projects:
 - bnabs
 tags: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
