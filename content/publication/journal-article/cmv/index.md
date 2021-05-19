@@ -24,7 +24,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The Journal of Clinical Investigation"
-publication_short: "JCI"
+publication_short: ""
 
 abstract: ""
 

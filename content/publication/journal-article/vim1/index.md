@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nonparametric variable importance assessment using machine learning techniques"
+title: "Nonparametric variable importance assessment using machine learning techniques (with discussion)"
 authors:
 - admin
 - Peter Gilbert
