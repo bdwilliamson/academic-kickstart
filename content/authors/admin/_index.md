@@ -63,7 +63,7 @@ I am a postdoctoral fellow in the [Vaccine and Infectious Disease
 Division](https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division.html)
 at [Fred Hutch](https://www.fredhutch.org/en.html), where I work with
 [Ying
-Huang](https://www.fredhutch.org/en/faculty-lab-directory/huang-ying.html). Starting in September 2021, I will be joining the faculty at [Kaiser Permanente Washington Health Research Institute](https://www.kpwashingtonresearch.org/) as an Assistant Investigator.
+Huang](https://www.fredhutch.org/en/faculty-lab-directory/huang-ying.html). Starting in September 2021, I will join the faculty at [Kaiser Permanente Washington Health Research Institute](https://www.kpwashingtonresearch.org/) as an Assistant Investigator.
 
 I completed my doctoral studies in
 [Biostatistics](https://www.biostat.washington.edu/) at the [University
