@@ -43,7 +43,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://doi.org/10.1101/2020.06.23.167718"
+url_pdf: "https://doi.org/10.1093/bioinformatics/btab398"
 url_code: "https://github.com/benkeser/slapnap"
 url_dataset:
 url_poster:
