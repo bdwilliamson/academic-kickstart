@@ -7,7 +7,7 @@ authors:
 - Jim Hughes
 - Amy Willis
 date: 2021-05-19
-doi: "10.1101/761486"
+doi: "10.1111/biom.13503"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-05-19T11:32:45-07:00
